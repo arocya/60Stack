@@ -1,0 +1,11 @@
+C:\GitHub\60stack\60stack\bin\Debug\netcoreapp2.0\60stack.deps.json
+C:\GitHub\60stack\60stack\bin\Debug\netcoreapp2.0\60stack.runtimeconfig.json
+C:\GitHub\60stack\60stack\bin\Debug\netcoreapp2.0\60stack.runtimeconfig.dev.json
+C:\GitHub\60stack\60stack\bin\Debug\netcoreapp2.0\60stack.dll
+C:\GitHub\60stack\60stack\bin\Debug\netcoreapp2.0\60stack.pdb
+C:\GitHub\60stack\60stack\obj\Debug\netcoreapp2.0\60stack.csprojResolveAssemblyReference.cache
+C:\GitHub\60stack\60stack\obj\Debug\netcoreapp2.0\60stack.csproj.CoreCompileInputs.cache
+C:\GitHub\60stack\60stack\obj\Debug\netcoreapp2.0\60stack.AssemblyInfoInputs.cache
+C:\GitHub\60stack\60stack\obj\Debug\netcoreapp2.0\60stack.AssemblyInfo.cs
+C:\GitHub\60stack\60stack\obj\Debug\netcoreapp2.0\60stack.dll
+C:\GitHub\60stack\60stack\obj\Debug\netcoreapp2.0\60stack.pdb
